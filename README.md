@@ -1,6 +1,6 @@
 # Maryam Hesham | Data Science Portfolio
 
-![Maryam](./letterM.png) 
+![Maryam](https://i.imgur.com/8gmjQM7.png) 
 
 Welcome to my professional portfolio showcasing my data science projects, skills, and experience. Built with modern web technologies for optimal performance and user experience.
 

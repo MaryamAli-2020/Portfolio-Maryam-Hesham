@@ -17,7 +17,7 @@ export const projectData: Project[] = [
     image: "https://images.pexels.com/photos/7567434/pexels-photo-7567434.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     category: "ai",
     technologies: ["Next.js", "React", "TypeScript", "Tailwind CSS", "ShadCN UI", "Firebase Genkit", "Google Gemini", "Lucide React"],
-    liveUrl: "job-gap-analyzer.vercel.app",
+    liveUrl: "https://job-gap-analyzer.vercel.app",
     githubUrl: "https://github.com/MaryamAli-2020/Job-Gap-Analyzer"
   },
   {
@@ -26,7 +26,7 @@ export const projectData: Project[] = [
     image: "https://images.pexels.com/photos/7579831/pexels-photo-7579831.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     category: "data-analytics",
     technologies: ["Python", "Plotly", "Streamlit", "Folium", "Pandas", "NumPy", "Requests", "CSS"],
-    liveUrl: "disasterdashboard.streamlit.app/#d2a0bc97",
+    liveUrl: "https://disasterdashboard.streamlit.app/#d2a0bc97",
     githubUrl: "https://github.com/MaryamAli-2020/disaster_dashboard"
   },
   {
@@ -52,7 +52,7 @@ export const projectData: Project[] = [
     image: "https://images.pexels.com/photos/6693661/pexels-photo-6693661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     category: "ai",
     technologies: ["React", "TypeScript", "Next.js", "Google AI & Genkit", "Tailwind CSS", "ShadCN UI"],
-    liveUrl: "lectro-chat.vercel.app",
+    liveUrl: "https://lectro-chat.vercel.app",
     githubUrl: "https://github.com/MaryamAli-2020/Lectro/tree/master"
   },
   {
@@ -61,7 +61,7 @@ export const projectData: Project[] = [
     image: "https://images.pexels.com/photos/6476264/pexels-photo-6476264.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     category: "web-development",
     technologies: ["Vite", "TypeScript", "React", "Shadcn-ui", "Tailwind CSS"],
-    liveUrl: "visionhub-one.vercel.app",
+    liveUrl: "https://visionhub-one.vercel.app",
     githubUrl: "https://github.com/MaryamAli-2020/VisionHub"
   },
   {
@@ -78,7 +78,7 @@ export const projectData: Project[] = [
     image: "",
     category: "nlp",
     technologies: ["Python", "TypeScript", "MongoDB", "fastAPI", "HuggingFace"],
-    liveUrl: "smart-sentiment.vercel.app",
+    liveUrl: "https://smart-sentiment.vercel.app",
     githubUrl: "https://github.com/MaryamAli-2020/backend/tree/main"
   },
   {
@@ -112,7 +112,7 @@ export const projectData: Project[] = [
    image: "",
    category: "data-analytics",
    technologies: ["Flask", "Pandas", "requests", "plotly", "beatifulsoup4", "HTML", "CSS"],
-   liveUrl: "ajman-data-inisights-generator.vercel.app",
+   liveUrl: "https://ajman-data-inisights-generator.vercel.app",
    githubUrl: "https://github.com/MaryamAli-2020/Ajman_Data_Inisights_Generator/tree/main" 
   },
   {

@@ -24,7 +24,7 @@ function App() {
 
   return (
     <ThemeProvider>
-      <div className="min-h-screen transition-colors duration-300 dark:bg-gray-900 bg-white">
+      <div className="min-h-screen overflow-x-hidden transition-colors duration-300 dark:bg-gray-900 bg-white">
         <Header scrollPosition={scrollPosition} />
         <main>
           <Hero />

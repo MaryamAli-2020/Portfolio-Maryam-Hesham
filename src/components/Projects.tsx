@@ -68,7 +68,6 @@ const Projects = () => {
                 project={project} 
                 isVisible={isInView} 
                 delay={index * 0.1 + 0.4}
-                className="flex-1 flex flex-col"
               />
             </div>
           ))}

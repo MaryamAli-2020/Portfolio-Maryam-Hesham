@@ -9,27 +9,11 @@ interface Publication {
 
 export const publicationData: Publication[] = [
   {
-    title: "Efficient Training of Large Language Models on Resource-Constrained Devices",
-    journal: "Conference on Neural Information Processing Systems (NeurIPS)",
-    date: "December 2024",
-    abstract: "We present a novel approach for training large language models on devices with limited computational resources. Our method reduces memory requirements by 40% while maintaining 95% of the performance of full-scale models.",
-    keywords: ["Large Language Models", "Efficient Computing", "Model Compression", "Edge AI"],
-    doi: "10.1109/example.2024.123456"
+    title: "Using Deep Learning to Predict Obesity and Its Effect on Human Physiology",
+    journal: "2023 24th International Arab Conference on Information Technology, ACIT 2023",
+    date: "December 2023",
+    abstract: "Obesity is a pressing global health issue with significant implications for human physiology and overall wellbeing. This research paper explores the application of deep learning techniques in predicting obesity and understanding its profound effects on human physiology. Using Deep Learning to predict obesity based on the physical condition of a human being increased the efficacy compared to other Machine Learning models.",
+    keywords: ["Accuracy", "active functions", "Deep Learning", "Machine Learning", "obesity", "Visualization"],
+    doi: "10.1109/ACIT58888.2023.10453907"
   },
-  {
-    title: "Explainable AI for Healthcare: Interpretable Models for Clinical Decision Support",
-    journal: "Journal of Biomedical Informatics",
-    date: "October 2024",
-    abstract: "This study explores the application of explainable AI techniques in clinical settings, focusing on how transparency in machine learning models can improve physician trust and adoption of AI-assisted decision support systems.",
-    keywords: ["Explainable AI", "Healthcare", "Clinical Decision Support", "Trustworthy AI"],
-    doi: "10.1016/j.jbi.2024.103982"
-  },
-  {
-    title: "Visual Analytics for Time Series Data: A Comparative Study of Visualization Techniques",
-    journal: "IEEE Transactions on Visualization and Computer Graphics",
-    date: "May 2024",
-    abstract: "We evaluate and compare various visualization techniques for time series data analysis, providing guidelines for selecting appropriate visual representations based on data characteristics and analytical tasks.",
-    keywords: ["Data Visualization", "Time Series Analysis", "Visual Analytics", "User Studies"],
-    doi: "10.1109/TVCG.2024.456789"
-  }
 ];

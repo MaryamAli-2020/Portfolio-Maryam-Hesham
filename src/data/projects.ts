@@ -24,7 +24,7 @@ export const projectData: Project[] = [
     title: "Disasters Dashboard",
     description: "A comprehensive real-time disaster monitoring and relief coordination platform built with Streamlit. This dashboard provides emergency responders, government agencies, and relief organizations with critical information about natural disasters and resource management capabilities.",
     image: "https://images.pexels.com/photos/7579831/pexels-photo-7579831.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    category: "data-analysis",
+    category: "data-analytics",
     technologies: ["Python", "Plotly", "Streamlit", "Folium", "Pandas", "NumPy", "Requests", "CSS"],
     liveUrl: "disasterdashboard.streamlit.app/#d2a0bc97",
     githubUrl: "https://github.com/MaryamAli-2020/disaster_dashboard"

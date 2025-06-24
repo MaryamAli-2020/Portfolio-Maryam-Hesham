@@ -20,7 +20,7 @@ export const publicationData: Publication[] = [
     title: "Classifying IBM Transactions for Anti Money Laundering (AML) using GNN Models",
     journal: "Ajman University",
     date: "December 2024",
-    abstract: "Explores using Graph Neural Networks (GAT, GraphSAGE, GCN) to detect money laundering in financial data, highlighting their strengths, limitations, and potential for fighting financial crime.",
+    abstract: "Money laundering poses a serious threat to global financial systems, enabling criminal activities and undermining economic stability. This report explores the use of Graph Neural Networks (GNNs) to detect such activities using a synthetic financial transaction dataset from IBM. By leveraging the graph structure—where nodes represent entities and edges represent enriched transactions—three GNN models were applied: GAT, GraphSAGE, and GCN. Each underwent preprocessing steps like class balancing, currency standardization, and graph refinement. Results showed GAT excelled in identifying fraudulent cases but misclassified legitimate ones, GraphSAGE achieved balanced performance, and GCN offered strong class separation with high AUC-ROC but lower recall for legitimate transactions. The study underscores the challenges of class imbalance and sparse connectivity, recommending improved feature engineering, ensemble methods, and alternative architectures. Overall, it demonstrates the promising role of GNNs in detecting money laundering and guiding future AI-driven financial crime detection systems.",
     keywords: ["GNN", "GAT", "GraphSAGE", "GCN", "Python"],
     doi: "10.5281/zenodo.15732883"
   },
@@ -28,7 +28,7 @@ export const publicationData: Publication[] = [
     title: "Predictive Analytics for Employee Engagement and Retention",
     journal: "Ajman University",
     date: "April 2024",
-    abstract: "The approach combines predictive analytics with sentiment analysis of employee feedback collected from platforms like X (formerly Twitter), Seek, and Trustpilot. This hybrid analysis provides both quantitative and qualitative perspectives on why employees choose to leave, offering IBM actionable insights to improve retention.",
+    abstract: "Employee attrition is a persistent challenge, even for major tech companies like IBM. These issues may stem from retirement, voluntary departures, or unforeseen events. The loss of skilled and experienced employees can disrupt a company's stability and productivity, presenting a significant challenge for HR management. This report aims to investigate the underlying causes of employee attrition at IBM, focusing on identifying the key factors that drive employees to leave. The approach involves a comprehensive analysis combining tabular data provided by IBM with insights extracted from social media platforms like X, Seek, and Trustpilot. Quantitative data includes historical attrition rates and demographic information, while qualitative insights are gathered from employee reviews and feedback. Understanding the root causes of attrition is essential for IBM to develop targeted strategies that enhance retention and engagement. Addressing work-life balance, providing career growth opportunities, and fostering a positive organizational culture can significantly reduce attrition, ultimately improving employee satisfaction and loyalty.",
     keywords: ["XGBoost", "SMOTE", "lightGBM", "KNN", "SVM", "HR", "ANN", "Logistic Regression", "Balanced bagging classifier", "Social Media"],
     doi: "10.5281/zenodo.15732942"
   },

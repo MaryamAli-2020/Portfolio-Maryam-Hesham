@@ -10,9 +10,11 @@ const Projects = () => {
   const categories: { value: ProjectCategory | 'all'; label: string }[] = [
     { value: 'all', label: 'All Projects' },
     { value: 'machine-learning', label: 'Machine Learning' },
-    { value: 'data-analysis', label: 'Data Analysis' },
+    { value: 'data-analytics', label: 'Data Analytics' },
     { value: 'nlp', label: 'NLP' },
     { value: 'web-development', label: 'Web Development' },
+    { value: 'ai', label: 'AI' },
+    { value: 'automation', label: 'Automation'}
   ];
   
   const filteredProjects = activeFilter === 'all' 

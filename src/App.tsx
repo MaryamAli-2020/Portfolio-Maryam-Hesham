@@ -9,6 +9,7 @@ import Publications from './components/Publications';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import BackToTop from './components/ui/BackToTop';
+import Certificates from './components/Certificates';
 
 function App() {
   const [scrollPosition, setScrollPosition] = useState(0);
@@ -32,6 +33,7 @@ function App() {
           <Skills />
           <Projects />
           <Publications />
+          <Certificates />
           <Contact />
         </main>
         <Footer />

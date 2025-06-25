@@ -27,6 +27,7 @@ const Header = ({ scrollPosition }: HeaderProps) => {
     { name: 'Skills', href: '#skills' },
     { name: 'Projects', href: '#projects' },
     { name: 'Publications', href: '#publications' },
+    { name: 'Certificates', href: '#certificates'},
     { name: 'Contact', href: '#contact' },
   ];
 

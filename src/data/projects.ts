@@ -133,6 +133,14 @@ export const projectData: Project[] = [
     githubUrl: "https://github.com/MaryamAli-2020/Big-Data-Analysis-of-Household-Energy-Consumption-for-Climate-Change-Mitigation"
   },
   {
+    title: "Arabic Diacritization Using Deep Neural Networks",
+    description: "improving the readability and understanding of Arabic text by predicting and applying diacritics accurately.",
+    image: "https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-031-80438-0_5/MediaObjects/644024_1_En_5_Fig2_HTML.png",
+    category: "nlp",
+    technologies: ["Python", "Tensorflow", "sklearn", "matplotlib", "NumPy"],
+    githubUrl: "https://github.com/MaryamAli-2020/Arabic-text-diacritization.git"
+  },
+  {
     title: "StackOverflow Survery Dashboard 2022",
     description: "This project involves cleaning and preprocessing the Stack Overflow 2022 Developer Survey using Python, followed by insightful data visualizations created with Power BI.",
     image: "https://i.imgur.com/Z4elQdd.png",
@@ -154,7 +162,7 @@ export const projectData: Project[] = [
     description: "The high prevalence of obesity around the world has been a major concern globally! In this report will be creating a neural network algorithm that performs its best to detect the occurrence of obesity in humans as well as talk about its importance and how we can prevent it from happening with the help of our dataset.",
     image: "https://i.imgur.com/9uCNNyS.png",
     category: "machine-learning",
-    technologies: ["Pandas", "Sklearn", "NumPy", "Seaborn", "matplotlib", "Plotly", "tensorflow", ""],
+    technologies: ["Pandas", "Sklearn", "NumPy", "Seaborn", "matplotlib", "Plotly", "tensorflow"],
     liveUrl: "https://nchr.elsevierpure.com/en/publications/using-deep-learning-to-predict-obesity-and-its-effect-on-human-ph",
     githubUrl: "https://github.com/MaryamAli-2020/Obesity-Prediction-using-DL"
   },

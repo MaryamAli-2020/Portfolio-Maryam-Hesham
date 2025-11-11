@@ -183,4 +183,12 @@ export const projectData: Project[] = [
     technologies: ["GNN", "GAT", "GraphSAGE", "GCN", "Python"],
     githubUrl: "https://github.com/MaryamAli-2020/IBM-DATA-GRAPH/tree/master",
   },
+  {
+    title: "AI-Powered Credit Risk and Loan Approval Prediction: Feature Selection and Imbalanced Data Analysis",
+    description: "Highlights that credit risk modeling success depends not only on algorithm choice, but also on handling data imbalance and carefully designing evaluation frameworks.",
+    image: "https://i.imgur.com/fzTDfyc.png",
+    category: "machine-learning",
+    technologies: ["SMOTE", "XGBoost", "LightGBM", "Catboost", "Python", "sklearn", "seaborn", "martplotlib"],
+    githubUrl: "https://github.com/MaryamAli-2020/AI-Powered-Credit-Risk-and-Loan-Approval-Prediction-Feature-Selection-and-Imbalanced-Data-Analysis",
+  },
 ];

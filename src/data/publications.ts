@@ -44,9 +44,16 @@ export const publicationData: Publication[] = [
     title: "Big Data Analysis of Household Energy Consumption for Climate Change Mitigation",
     journal: "Ajman University",
     date: "October 2024",
-    abstract: "he research study concentrates on examining the energy consumption patterns of households with the help of data analytics. Smart meters data from 5,567 London residences involved in the UK Power Networks’ Low Carbon London project is applied. This study takes on data preprocessing, feature selection, and machine learning algorithms to segment consumption patterns, break down the electricity load curve, connect consumption data with ACORN classification information, and forecast household electricity consumption. This research shares insights supporting the reduction of climate change and provides sustainable energy solutions.",
+    abstract: "The research study concentrates on examining the energy consumption patterns of households with the help of data analytics. Smart meters data from 5,567 London residences involved in the UK Power Networks’ Low Carbon London project is applied. This study takes on data preprocessing, feature selection, and machine learning algorithms to segment consumption patterns, break down the electricity load curve, connect consumption data with ACORN classification information, and forecast household electricity consumption. This research shares insights supporting the reduction of climate change and provides sustainable energy solutions.",
     keywords: ["Big Data", "Analytics", "House Hold Energy Consumption", "Smart Meters", "Climate Change", "Patterns", "Machine Learning", "PySpark", "ACORN classification"],
     doi: "10.5281/zenodo.15733044"
   },
-  
+  {
+    title: "AI-Powered Credit Risk and Loan Approval Prediction: Feature Selection and Imbalanced Data Analysis",
+    journal: "Ajman University",
+    date: "September 2025",
+    abstract: "Credit risk prediction is vital for financial decision-making, as distinguishing safe from risky loan applicants prevents major losses. This project compared baseline models (Logistic Regression, Decision Tree) with advanced methods (LightGBM, XGBoost, CatBoost) using feature selection and data balancing (SMOTE). Baseline tests showed data imbalance issues—Logistic Regression reached 74% accuracy but recalled only 40% of risky loans, while Decision Tree overfit despite 97% accuracy. Advanced models improved fairness and generalization; LightGBM performed best (96% accuracy, 0.97 precision/recall), with XGBoost and CatBoost offering strong stability. Logistic Regression remained a transparent benchmark. Overall, effective credit risk modeling depends on managing data imbalance and evaluation design, yielding a scalable, reliable pipeline for financial use.",
+    keywords: ["Loan Detection", "ETL", "Machine Learning", "LightGBM", "XGBoost", "CatBoost", "HighGradientBoosting", "SMOTE", "imbalanced data", "feature engineering"],
+    doi: "10.5281/zenodo.17577468"
+  },
 ];

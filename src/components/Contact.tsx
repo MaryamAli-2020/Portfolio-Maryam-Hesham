@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { useInView } from '../hooks/useInView';
-import { AtSign, MapPin, Send, Github, Linkedin, Twitter } from 'lucide-react';
+import { AtSign, MapPin, Send, Github, Linkedin, Twitter, Link } from 'lucide-react';
 
 const Contact = () => {
   const [ref, isInView] = useInView({ threshold: 0.1 });
@@ -137,6 +137,15 @@ const Contact = () => {
                     aria-label="Twitter"
                   >
                     <Twitter className="w-5 h-5 text-gray-700 dark:text-gray-300" />
+                  </a>
+                  <a 
+                    href="https://orcid.org/0009-0000-9827-623X" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="bg-gray-100 dark:bg-gray-800 p-3 rounded-full hover:bg-purple-100 dark:hover:bg-purple-900/30 transition-colors"
+                    aria-label="ORCID"
+                  >
+                    <Link className="w-5 h-5 text-gray-700 dark:text-gray-300" />
                   </a>
                 </div>
               </div>

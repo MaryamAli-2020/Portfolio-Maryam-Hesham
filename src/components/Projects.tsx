@@ -33,6 +33,7 @@ const Projects = () => {
         }`}>
           <span className="text-gray-800 dark:text-white">Featured </span>
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-600 to-teal-500">Projects</span>
+          <span className="text-gray-600 dark:text-gray-400 text-lg"> ({filteredProjects.length})</span>
         </h2>
         
         <p className={`text-center text-gray-600 dark:text-gray-300 mb-12 max-w-2xl mx-auto transition-all duration-700 delay-200 ${

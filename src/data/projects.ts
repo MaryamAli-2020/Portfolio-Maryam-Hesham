@@ -200,14 +200,6 @@ export const projectData: Project[] = [
     githubUrl: "https://github.com/MaryamAli-2020/Clustering_Multi-Scale_Datasets_A_Performance_Comparison.git",
   },
   {
-    title: "",
-    description: "",
-    image: "",
-    category: "machine-learning",
-    technologies: [],
-    githubUrl: "",
-  },
-  {
     title: "Qanoon | UAE Legislation Portal Enhancement",
     description: "Explore comprehensive legal information across multiple practice areas. Get answers to your questions with our AI-powered assistant available 24/7.",
     image: "https://i.imgur.com/nszeNDj.png",

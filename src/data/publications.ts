@@ -17,6 +17,38 @@ export const publicationData: Publication[] = [
     doi: "10.1109/ACIT58888.2023.10453907"
   },
   {
+    title: "Comparative Analysis of Crossover and Mutation Operators in Genetic Algorithms for the Traveling Salesman Problem",
+    journal: "zenodo",
+    date: "March 2026",
+    abstract: "Genetic Algorithms (GAs) are widely used to solve combinatorial problems such as the Traveling Salesman Problem (TSP). This paper compares permutation-based crossover operators (OX1, PMX, CX, ERX) and mutation strategies (Swap, Insert, Scramble, Inversion). The analysis shows how operator choice affects diversity, solution quality, and overall optimization performance.",
+    keywords: ["Genetic Algorithms", "Traveling Salesman Problem", "Crossover Operators", "Mutation Strategies"],
+    doi: "https://doi.org/10.5281/zenodo.18900542"
+  },
+  {
+    title: "Designing and Evaluating an AI-Enhanced User Interface: A User-Centered Study of UAE Legislation Portal Enhancement",
+    journal: "zenodo",
+    date: "December 2025",
+    abstract: "The integration of artificial intelligence (AI) into user interfaces has the potential to significantly enhance user experience and satisfaction. This paper presents a user-centered study focusing on the enhancement of the UAE Legislation Portal through AI-driven improvements. The research investigates how AI can be effectively utilized to improve navigation, search functionality, and overall usability of the portal. Through a combination of user feedback, usability testing, and performance analysis, this study evaluates the impact of AI enhancements on user engagement and efficiency.",
+    keywords: ["AI", "User Interface", "User-Centered Design", "UAE Legislation Portal"],
+    doi: "https://doi.org/10.5281/zenodo.18900491"
+  },
+  {
+    title: "Clustering Multi-Scale Datasets: A Performance Comparison of K-Means, K-Medoids, DBSCAN, and Agglomerative Clustering Algorithms",
+    journal: "zenodo",
+    date: "December 2025",
+    abstract: "Clustering is a fundamental task in data mining and machine learning. This paper presents a comprehensive comparison of four popular clustering algorithms—K-Means, K-Medoids, DBSCAN, and Agglomerative Clustering—when applied to multi-scale datasets. The study evaluates each algorithm's performance in terms of cluster quality, computational efficiency, and robustness to noise. Results indicate that the choice of clustering algorithm significantly impacts the outcome, especially when dealing with datasets of varying scales and distributions.",
+    keywords: ["Clustering", "K-Means", "K-Medoids", "DBSCAN", "Agglomerative Clustering"],
+    doi: "https://doi.org/10.5281/zenodo.18900459"
+  },
+  {
+    title: "AI in Smart City and Smart Home",
+    journal: "zenodo",
+    date: "December 2025",
+    abstract: "The integration of artificial intelligence (AI) into smart city and smart home environments has the potential to significantly enhance the quality of life for residents. This paper explores the applications of AI in these domains, focusing on how intelligent systems can improve energy efficiency, security, and overall user experience. Through a combination of case studies, simulations, and user feedback, this study evaluates the impact of AI implementations in smart cities and homes.",
+    keywords: ["AI", "Smart City", "Smart Home", "User Experience"],
+    doi: "https://doi.org/10.5281/zenodo.18900064"
+  },
+  {
     title: "Classifying IBM Transactions for Anti Money Laundering (AML) using GNN Models",
     journal: "Ajman University",
     date: "December 2024",
